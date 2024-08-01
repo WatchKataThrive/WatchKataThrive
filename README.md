@@ -24,20 +24,32 @@ I’m dedicated to creating engaging and visually appealing experiences in a dyn
 - Useberry
 - Zoom
 ### 📊Research Skills: 
+- A/B Testing
+- Affinity Mapping
+- Card Sorting
 - Competitive Analysis
+- Data Interpretation
 - Empathy Mapping
 - Heuristic Evaluation
-- Journey Mapping
 - Interviews
-- Task Prioritization
+- Journey Mapping
+- Persona Development
+- Surveys and Questionnaires
+- Task Analysis
 - Usability Testing
 ### 🖌️Design Skills: 
+- Accessibility
 - Aspects Development
-- Drafting/sketching
+- Color theory
 - Content Strategy
-- Interactive Prototypes
+- Design Thinking
+- Drafting/sketching
+- Interactive Design/Prototypes
 - Low Fidelity Wireframes
+- Typography
 ### 👩🏾‍💼Soft Skills:
+- Collaboration
+- Critical Thinking
 - Data entry
 - Dependability
 - Detail-oriented
@@ -46,6 +58,7 @@ I’m dedicated to creating engaging and visually appealing experiences in a dyn
 - Office machinery operation
 - Organizational skills
 - Positive demeanor
+- Task Prioritization
 - Time management
 - Versatility
 ## Certifications/Education 📃
