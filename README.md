@@ -7,22 +7,22 @@ I’m dedicated to creating engaging and visually appealing experiences in a dyn
 
 ## Skills Overview 💼
 ### 💻Software Skills: 
-Adobe Suite
-Airtable
-Asana
-Canva
-Discord
-Figma
-Google Suite
-Maze
-Microsoft Office
-Notion
-Photoshop
-Printshop
-Sketch
-Slack
-Useberry
-Zoom
+- Adobe Suite
+- Airtable
+- Asana
+- Canva
+- Discord
+- Figma
+- Google Suite
+- Maze
+- Microsoft Office
+- Notion
+- Photoshop
+- Printshop
+- Sketch
+- Slack
+- Useberry
+- Zoom
 ### 📊Research Skills: 
 - Competitive Analysis
 - Empathy Mapping
