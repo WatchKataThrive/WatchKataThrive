@@ -11,11 +11,16 @@ I’m dedicated to creating engaging and visually appealing experiences in a dyn
 - Airtable
 - Asana
 - Canva
+- CSS
 - Discord
 - Figma
+- Google Ads
+- Google Analytics
 - Google Suite
 - Maze
+- Microsoft Excel
 - Microsoft Office
+- Microsoft PowerPoint
 - Notion
 - Photoshop
 - Printshop
